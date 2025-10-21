@@ -24,6 +24,8 @@ The model utilizes dual vision encoders (SAM ViT-B and CLIP-L) with the innovati
 
 ## Quick Start
 
+**⚡ New to this?** Check out our [Quick Start Guide](QUICK_START.md) for the fastest way to get started!
+
 ### Option 1: Google Colab (Recommended for Beginners)
 
 The easiest way to get started is using Google Colab:

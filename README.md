@@ -121,10 +121,10 @@ The main dependencies are:
 - `torch>=2.6.0` - PyTorch deep learning framework
 - `transformers>=4.48.0` - HuggingFace Transformers
 - `tokenizers>=0.15.0` - Fast tokenizers
-- `Pillow>=10.0.0` - Image processing
+- `Pillow>=10.2.0` - Image processing
 - `accelerate>=0.25.0` - Model acceleration
 - `sentencepiece>=0.1.99` - Tokenization
-- `protobuf>=4.25.0` - Protocol buffers
+- `protobuf>=4.25.8` - Protocol buffers
 
 See [requirements.txt](requirements.txt) for the complete list.
 

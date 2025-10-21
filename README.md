@@ -118,8 +118,8 @@ DeepSeek-OCR-Inference/
 
 The main dependencies are:
 
-- `torch>=2.0.0` - PyTorch deep learning framework
-- `transformers>=4.37.0` - HuggingFace Transformers
+- `torch>=2.6.0` - PyTorch deep learning framework
+- `transformers>=4.48.0` - HuggingFace Transformers
 - `tokenizers>=0.15.0` - Fast tokenizers
 - `Pillow>=10.0.0` - Image processing
 - `accelerate>=0.25.0` - Model acceleration
